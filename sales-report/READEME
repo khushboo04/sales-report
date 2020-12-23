@@ -1,0 +1,8 @@
+start mongo db
+// C:MongoDB//.exe file
+
+Open cmd and below command
+curl -i -H "Accept: application/json" localhost:3000/api
+
+open cmd at root level and type 
+npm start
